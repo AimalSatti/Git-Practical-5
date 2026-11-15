@@ -1,6 +1,6 @@
 University Management System
 
-Student Name: ALI
+Student Name:Aimal
 Registration No: 123456
 
 Modules:
