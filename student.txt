@@ -1,0 +1,11 @@
+University Management System
+
+Student Name: ALI
+Registration No: 123456
+
+Modules:
+1. Student Registration
+2. Attendence Management
+3. Examination Results
+4. Fee Management
+5. Profile Management
